@@ -1,0 +1,87 @@
+ <div>
+      <div class="logo">
+        <h2>About Me</h2><div>
+            
+        </div>
+        <div>
+            <p>My name is REETESH SHARMA .I am a 1st year B.Tech student from Dronacharya college of engineering.  </p>
+        </div>
+        
+    </div>
+        
+          <div class="logo">
+        <h2>My Interest</h2>
+          </div>
+            <ul>
+            <div >
+                <h4>Virtual reality</h4>
+                <p></p>
+            </div>
+            <div>
+                <h4>Reading books</h4>
+                
+            </div>
+            <p>I like reading books ,mostly fiction books they are intrusting .</p>
+            <div>
+                <h4>swimming/badmintion
+                </h4>
+                
+            </div>
+              <p>  I like swimming and playing badmintion they make me physically active and help me to intract with others.  </p>
+        </ul>
+        </div>
+
+    </div>
+    <!--Qualificatiom-->
+    <div>
+        <div class="logo">
+            <h2>Qualification</h2>
+        </div>
+        <table>
+        <thead>
+            <tr>
+                <th>Institute/University</th>
+                <th>Degree/Exanimation</th>
+                <th>Division</th>
+                <th>Year</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dronacharya College</td>
+                <td>B.Tech</td>
+                <td>pursuing(1st year)</td>
+                <td>2021-2025</td>
+            </tr>
+            <tr>
+                <td>k.V. BSF Chhawla</td>
+                <td>12th</td>
+                <td>1st division</td>
+                <td>2021</td>
+            </tr>
+            <tr>
+                <td>K.v. S.P.G Sec-8 Dwarka</td>
+                <td>10th</td>
+                <td>1st division</td>
+                <td>2019</td>
+            </tr>
+            
+        </tbody>
+        </table>
+    </div>
+    <div class="logo">
+        <h2>Gallery</h2>
+    </div>
+    <div class="logo">
+        <h2>Contact Me</h2>
+        <h5>contact info-</h5>7982556198
+        <h5>gmail-</h5>reeteshs525@gmail.com
+
+
+    </div>
+    
+
+</body>
+   
+</html>

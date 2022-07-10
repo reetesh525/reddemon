@@ -1,0 +1,206 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+nav{
+    position: fixed;
+    left: 15%;
+}
+
+
+nav ul{
+    display: flex;
+    position: relative;
+    left: 33%;
+    
+    
+}
+
+nav ul li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 25px;
+    background-color: white;
+    padding: 15px;
+    margin: 12px;
+    border-radius: 10px;
+}
+
+nav ul li a{
+    color: black;
+}
+
+h3{
+    margin-bottom: 65px;
+}
+
+h4{
+
+    position: relative;
+    left: 110px;
+}
+.about1{    position: relative;
+    
+    top: 100;
+    top: 38px;
+    font-size: 40px;
+    color: aliceblue;
+    
+}
+
+.int{
+    
+    position: relative;
+    top: 150px;
+    left: 59px;
+}
+
+.intro{
+    display: flex;
+    color: aliceblue;
+}
+
+
+.intr1{
+    position: relative;
+    
+    font-size: 40px;
+    top: 109px;
+    color: aliceblue;
+}
+.intr2{
+        top: 170px;
+        position: relative;
+        font-size: 38px;
+        color: aliceblue;
+
+}
+
+.intro1  img{
+    position: relative;
+    left: 150%;
+    width: 100%;
+    top: 14%;
+}
+.gal2{
+    position: relative;
+    font-size: 40px;
+    top: 17px;
+
+}
+
+
+.qual1{
+    position: relative;
+    top: 110px;
+    
+    font-size: 40px;
+}
+.con1{
+    position: relative;
+    top: 95px;
+    font-size: 32px;
+    left: 15px;
+}
+.qual2{
+    position: relative;
+    top: 170px;
+    left: 50px;
+    font size: 22;
+    font-size: 36px;
+    font-style: italic
+}
+.qual3{
+    position: relative;
+    top: 60px;
+}
+.intro{
+    position: relative;
+    top: 74px;
+    font-style: oblique;
+    font-size: 33px;
+}
+.about2{
+    position: relative;
+    top: 100px;
+    font-size: 33px;
+    font-style: oblique;
+    color: aliceblue;
+    left: 10px;
+}
+.logo{
+    font-size: 30px;
+    font-style: italic;
+    position: relative;
+    left: px;
+    bottom: x;
+    color: red;
+}
+.home{
+    background-image: url("p9.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.about{
+    background-image: url("p11.jpg") ;
+    height: 140vh;
+    background-size: cover;
+    margin-top: -60px;
+}
+.intr{
+    background-image: url("p11.jpg");
+    height: 120vh;
+    background-size: cover;
+    margin-top: -40px;
+}
+.qual{
+    background-image: url("p11.jpg");
+    height: 140vh;
+    background-size: cover;
+    color: aliceblue;
+    margin-top: -40px;
+}
+.gal{
+    background-image: url("p11.jpg");
+    height: 140vh;
+    background-size: cover;
+    color: aliceblue;
+    margin-top: -40px;
+}
+.con{
+    background-image: url("p11.jpg");
+    height: 100vh;
+    background-size: cover;
+    color: aliceblue;
+    margin-top: -40px;
+}
+.intro{
+    position: relative;
+    right: -60px;
+}
+.about3{
+    color: aliceblue; 
+       left: 6px;
+    color: aliceblue;
+    font-size: 28px;
+    top: 175px;
+    position: relative;
+}
+.about1{
+    color: cadetblue;
+
+}
+.qual1{
+    color: cadetblue;
+}
+.con1{
+    color: cadetblue;
+}
+.intr1{
+    color: cadetblue;
+
+}
+.gal2{
+    color: cadetblue;
+}

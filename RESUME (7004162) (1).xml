@@ -1,0 +1,997 @@
+<?xml version="1.0"?>
+<root ptr="0x557fed65a010" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x557fed639400" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="10" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="33960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="33960"/>
+ </infos>
+ <page ptr="0x557fed7e11b0" id="1" symbol="11SwPageFrame" next="62" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x557fed6f2580" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="8487" top="1724" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x557fed78ee50" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="1724" width="9026" height="322" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="322"/>
+    </infos>
+RESUME    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3914"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="322" nWidth="1198" Portion="RESUME"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3915"/>
+    <LineBreak nWidth="9027" Line="RESUME"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed762000" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="2046" width="9026" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="185" width="9026" height="322"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4513"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="322"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4514"/>
+    <LineBreak nWidth="9027"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed769460" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="2553" width="9026" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="185" width="9026" height="322"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4513"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="322"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4514"/>
+    <LineBreak nWidth="9027"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1630" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3060" width="9026" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="185" width="9026" height="276"/>
+    </infos>
+Name**:*Reetesh Sharma **    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="600" Portion="Name"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="120" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="80" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="640" Portion="*"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="276" nWidth="1613" Portion="Reetesh Sharma "/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="4435" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabRight" nHeight="276" nWidth="818" Portion="*"/>
+    <LineBreak nWidth="9026" Line="Name**:*Reetesh Sharma **"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e17a0" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3521" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+Address*:*G62-B Qutub vihar phase -1    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="840" Portion="Address"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="600" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="80" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="640" Portion="*"/>
+    <Text nLength="26" nType="PortionType::Text" nHeight="276" nWidth="2733" Portion="G62-B Qutub vihar phase -1"/>
+    <LineBreak nWidth="4893" Line="Address*:*G62-B Qutub vihar phase -1"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1910" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="3837" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+                                     Goyla dairy, new delhi-110071    <Text nLength="66" nType="PortionType::Para" nHeight="276" nWidth="5219" Portion="                                     Goyla dairy, new delhi-110071"/>
+    <LineBreak nWidth="5219" Line="                                     Goyla dairy, new delhi-110071"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1a80" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="4153" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1bf0" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="4469" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+Email ID*:*reeteshs525@gmail.com    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="940" Portion="Email ID"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="500" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="80" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="640" Portion="*"/>
+    <Text nLength="21" nType="PortionType::Text" nHeight="276" nWidth="2469" Portion="reeteshs525@gmail.com"/>
+    <LineBreak nWidth="4629" Line="Email ID*:*reeteshs525@gmail.com"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1d60" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="4785" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e1ed0" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="5101" width="9026" height="316" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+Contact No*:*(+91) 7982556198    <Text nLength="10" nType="PortionType::Text" nHeight="276" nWidth="1167" Portion="Contact No"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="273" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="80" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="640" Portion="*"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="217" Portion="(+"/>
+    <Text nLength="14" nType="PortionType::Text" nHeight="276" nWidth="1580" Portion="91) 7982556198"/>
+    <LineBreak nWidth="3957" Line="Contact No*:*(+91) 7982556198"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2040" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="5417" width="9026" height="351" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e21b0" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="5768" width="9026" height="309" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="269"/>
+    </infos>
+*    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="720" Portion="*"/>
+    <LineBreak nWidth="720" Line="*"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2320" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="2" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="6077" width="9026" height="293" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="40" width="9026" height="253"/>
+    </infos>
+CAREER OBJECTIVE:    <Text nLength="17" nType="PortionType::Para" nHeight="253" nWidth="2328" Portion="CAREER OBJECTIVE:"/>
+    <LineBreak nWidth="2328" Line="CAREER OBJECTIVE:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2490" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="2" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="6370" width="9026" height="686" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="506"/>
+    </infos>
+To be the part of an enthusiastic work environment, where I can use my technical skills to accomplish organizational goals.    <Text nLength="102" nType="PortionType::Para" nHeight="253" nWidth="9025" Portion="To be the part of an enthusiastic work environment, where I can use my technical skills to accomplish "/>
+    <LineBreak nWidth="9025" Line="To be the part of an enthusiastic work environment, where I can use my technical skills to accomplish "/>
+    <Text nLength="21" nType="PortionType::Lay" nHeight="253" nWidth="1833" Portion="organizational goals."/>
+    <LineBreak nWidth="1833" Line="organizational goals."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2600" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="2" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="7056" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="567" top="60" width="8459" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2770" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="2" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="7369" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+ACADEMIC BACKGROUND:    <Text nLength="20" nType="PortionType::Para" nHeight="253" nWidth="2976" Portion="ACADEMIC BACKGROUND:"/>
+    <LineBreak nWidth="2976" Line="ACADEMIC BACKGROUND:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e28e0" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="7682" width="9026" height="686" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="506"/>
+    </infos>
+Pursuing B.Tech in COMPUTER SCIENCE &amp; ENGINEERING from Dronacharya College of Engineering, Gurugram, Approved by AICTE.    <Text nLength="78" nType="PortionType::Para" nHeight="253" nWidth="8408" Portion="Pursuing B.Tech in COMPUTER SCIENCE &amp; ENGINEERING from Dronacharya College of "/>
+    <LineBreak nWidth="8408" Line="Pursuing B.Tech in COMPUTER SCIENCE &amp; ENGINEERING from Dronacharya College of "/>
+    <Text nLength="41" nType="PortionType::Lay" nHeight="253" nWidth="4112" Portion="Engineering, Gurugram, Approved by AICTE."/>
+    <LineBreak nWidth="4112" Line="Engineering, Gurugram, Approved by AICTE."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e2a50" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="8368" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <tab ptr="0x557fed787e80" id="21" symbol="10SwTabFrame" next="58" prev="20" upper="2" lower="22">
+    <infos>
+     <bounds left="8487" top="8681" width="9026" height="1998" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="99" top="60" width="9038" height="1918"/>
+    </infos>
+    <row ptr="0x557fed7e2c00" id="22" symbol="10SwRowFrame" next="31" upper="21" lower="23">
+     <infos>
+      <bounds left="8586" top="8741" width="9038" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9038" height="353"/>
+     </infos>
+     <cell ptr="0x557fed7e2d40" id="23" symbol="11SwCellFrame" next="25" upper="22" lower="24" rowspan="1">
+      <infos>
+       <bounds left="8586" top="8741" width="2502" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2286" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e2e60" id="24" symbol="11SwTextFrame" upper="23" txtNodeIndex="29" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8694" top="8761" width="2286" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2286" height="253"/>
+       </infos>
+Institute/University       <Text nLength="20" nType="PortionType::Para" nHeight="253" nWidth="1834" Portion="Institute/University"/>
+       <LineBreak nWidth="1834" Line="Institute/University"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e2fd0" id="25" symbol="11SwCellFrame" next="27" prev="23" upper="22" lower="26" rowspan="1">
+      <infos>
+       <bounds left="11088" top="8741" width="2176" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1960" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e30f0" id="26" symbol="11SwTextFrame" upper="25" txtNodeIndex="32" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11196" top="8761" width="1960" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1960" height="253"/>
+       </infos>
+Degree/Examination       <Text nLength="18" nType="PortionType::Para" nHeight="253" nWidth="1931" Portion="Degree/Examination"/>
+       <LineBreak nWidth="1931" Line="Degree/Examination"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e3260" id="27" symbol="11SwCellFrame" next="29" prev="25" upper="22" lower="28" rowspan="1">
+      <infos>
+       <bounds left="13264" top="8741" width="1842" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1626" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e3380" id="28" symbol="11SwTextFrame" upper="27" txtNodeIndex="35" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13372" top="8761" width="1626" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1626" height="253"/>
+       </infos>
+Percentage       <Text nLength="10" nType="PortionType::Para" nHeight="253" nWidth="1038" Portion="Percentage"/>
+       <LineBreak nWidth="1038" Line="Percentage"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e34f0" id="29" symbol="11SwCellFrame" prev="27" upper="22" lower="30" rowspan="1">
+      <infos>
+       <bounds left="15106" top="8741" width="2518" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2302" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e3610" id="30" symbol="11SwTextFrame" upper="29" txtNodeIndex="38" WritingMode="Horizontal">
+       <infos>
+        <bounds left="15214" top="8761" width="2302" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2302" height="253"/>
+       </infos>
+Year       <Text nLength="4" nType="PortionType::Para" nHeight="253" nWidth="464" Portion="Year"/>
+       <LineBreak nWidth="464" Line="Year"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x557fed7e3780" id="31" symbol="10SwRowFrame" next="40" prev="22" upper="21" lower="32">
+     <infos>
+      <bounds left="8586" top="9094" width="9038" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9038" height="606"/>
+     </infos>
+     <cell ptr="0x557fed7e38c0" id="32" symbol="11SwCellFrame" next="34" upper="31" lower="33" rowspan="1">
+      <infos>
+       <bounds left="8586" top="9094" width="2502" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2286" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e39e0" id="33" symbol="11SwTextFrame" upper="32" txtNodeIndex="41" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8694" top="9114" width="2286" height="586" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2286" height="506"/>
+       </infos>
+Dronacharya college of engineering, Gurugram        <Text nLength="23" nType="PortionType::Para" nHeight="253" nWidth="2120" Portion="Dronacharya college of "/>
+       <LineBreak nWidth="2120" Line="Dronacharya college of "/>
+       <Text nLength="22" nType="PortionType::Lay" nHeight="253" nWidth="2108" Portion="engineering, Gurugram "/>
+       <LineBreak nWidth="2108" Line="engineering, Gurugram "/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e3b50" id="34" symbol="11SwCellFrame" next="36" prev="32" upper="31" lower="35" rowspan="1">
+      <infos>
+       <bounds left="11088" top="9094" width="2176" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1960" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e3c70" id="35" symbol="11SwTextFrame" upper="34" txtNodeIndex="44" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11196" top="9240" width="1960" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1960" height="253"/>
+       </infos>
+B.Tech       <Text nLength="6" nType="PortionType::Para" nHeight="253" nWidth="641" Portion="B.Tech"/>
+       <LineBreak nWidth="641" Line="B.Tech"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e3de0" id="36" symbol="11SwCellFrame" next="38" prev="34" upper="31" lower="37" rowspan="1">
+      <infos>
+       <bounds left="13264" top="9094" width="1842" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1626" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e3f00" id="37" symbol="11SwTextFrame" upper="36" txtNodeIndex="47" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13372" top="9240" width="1626" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1626" height="253"/>
+       </infos>
+Pursuing (1st year)       <Text nLength="11" nType="PortionType::Text" nHeight="253" nWidth="1021" Portion="Pursuing (1"/>
+       <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="85" Portion="st"/>
+       <Text nLength="6" nType="PortionType::Text" nHeight="253" nWidth="507" Portion=" year)"/>
+       <LineBreak nWidth="1613" Line="Pursuing (1st year)"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e4070" id="38" symbol="11SwCellFrame" prev="36" upper="31" lower="39" rowspan="1">
+      <infos>
+       <bounds left="15106" top="9094" width="2518" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2302" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e4190" id="39" symbol="11SwTextFrame" upper="38" txtNodeIndex="50" WritingMode="Horizontal">
+       <infos>
+        <bounds left="15214" top="9114" width="2302" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2302" height="253"/>
+       </infos>
+2021 (onwards)       <Text nLength="14" nType="PortionType::Para" nHeight="253" nWidth="1387" Portion="2021 (onwards)"/>
+       <LineBreak nWidth="1387" Line="2021 (onwards)"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x557fed7e4300" id="40" symbol="10SwRowFrame" next="49" prev="31" upper="21" lower="41">
+     <infos>
+      <bounds left="8586" top="9700" width="9038" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9038" height="353"/>
+     </infos>
+     <cell ptr="0x557fed7e4440" id="41" symbol="11SwCellFrame" next="43" upper="40" lower="42" rowspan="1">
+      <infos>
+       <bounds left="8586" top="9700" width="2502" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2286" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e4560" id="42" symbol="11SwTextFrame" upper="41" txtNodeIndex="53" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8694" top="9720" width="2286" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2286" height="253"/>
+       </infos>
+K.V. BSF Chhawla       <Text nLength="16" nType="PortionType::Para" nHeight="253" nWidth="1711" Portion="K.V. BSF Chhawla"/>
+       <LineBreak nWidth="1711" Line="K.V. BSF Chhawla"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e46d0" id="43" symbol="11SwCellFrame" next="45" prev="41" upper="40" lower="44" rowspan="1">
+      <infos>
+       <bounds left="11088" top="9700" width="2176" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1960" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e47f0" id="44" symbol="11SwTextFrame" upper="43" txtNodeIndex="56" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11196" top="9720" width="1960" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1960" height="253"/>
+       </infos>
+12th       <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="220" Portion="12"/>
+       <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="99" Portion="th"/>
+       <LineBreak nWidth="319" Line="12th"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e4960" id="45" symbol="11SwCellFrame" next="47" prev="43" upper="40" lower="46" rowspan="1">
+      <infos>
+       <bounds left="13264" top="9700" width="1842" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1626" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e4a80" id="46" symbol="11SwTextFrame" upper="45" txtNodeIndex="59" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13372" top="9720" width="1626" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1626" height="253"/>
+       </infos>
+73.83       <Text nLength="5" nType="PortionType::Para" nHeight="253" nWidth="495" Portion="73.83"/>
+       <LineBreak nWidth="495" Line="73.83"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e4bf0" id="47" symbol="11SwCellFrame" prev="45" upper="40" lower="48" rowspan="1">
+      <infos>
+       <bounds left="15106" top="9700" width="2518" height="353" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2302" height="333"/>
+      </infos>
+      <txt ptr="0x557fed7e4d10" id="48" symbol="11SwTextFrame" upper="47" txtNodeIndex="62" WritingMode="Horizontal">
+       <infos>
+        <bounds left="15214" top="9720" width="2302" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2302" height="253"/>
+       </infos>
+2021       <Text nLength="4" nType="PortionType::Para" nHeight="253" nWidth="440" Portion="2021"/>
+       <LineBreak nWidth="440" Line="2021"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x557fed7e4e80" id="49" symbol="10SwRowFrame" prev="40" upper="21" lower="50">
+     <infos>
+      <bounds left="8586" top="10053" width="9038" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9038" height="606"/>
+     </infos>
+     <cell ptr="0x557fed7e4fc0" id="50" symbol="11SwCellFrame" next="52" upper="49" lower="51" rowspan="1">
+      <infos>
+       <bounds left="8586" top="10053" width="2502" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2286" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e50e0" id="51" symbol="11SwTextFrame" upper="50" txtNodeIndex="65" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8694" top="10073" width="2286" height="586" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2286" height="506"/>
+       </infos>
+K.V. S.P.G  Dwarka sec-8       <Text nLength="23" nType="PortionType::Para" nHeight="253" nWidth="2212" Portion="K.V. S.P.G  Dwarka sec-"/>
+       <LineBreak nWidth="2212" Line="K.V. S.P.G  Dwarka sec-"/>
+       <Text nLength="1" nType="PortionType::Lay" nHeight="253" nWidth="110" Portion="8"/>
+       <LineBreak nWidth="110" Line="8"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e5250" id="52" symbol="11SwCellFrame" next="54" prev="50" upper="49" lower="53" rowspan="1">
+      <infos>
+       <bounds left="11088" top="10053" width="2176" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1960" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e5370" id="53" symbol="11SwTextFrame" upper="52" txtNodeIndex="68" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11196" top="10199" width="1960" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1960" height="253"/>
+       </infos>
+10th       <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="220" Portion="10"/>
+       <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="99" Portion="th"/>
+       <LineBreak nWidth="319" Line="10th"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e54e0" id="54" symbol="11SwCellFrame" next="56" prev="52" upper="49" lower="55" rowspan="1">
+      <infos>
+       <bounds left="13264" top="10053" width="1842" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="1626" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e5600" id="55" symbol="11SwTextFrame" upper="54" txtNodeIndex="71" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13372" top="10199" width="1626" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="1626" height="253"/>
+       </infos>
+85.20       <Text nLength="5" nType="PortionType::Para" nHeight="253" nWidth="495" Portion="85.20"/>
+       <LineBreak nWidth="495" Line="85.20"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x557fed7e5770" id="56" symbol="11SwCellFrame" prev="54" upper="49" lower="57" rowspan="1">
+      <infos>
+       <bounds left="15106" top="10053" width="2518" height="606" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="108" top="20" width="2302" height="586"/>
+      </infos>
+      <txt ptr="0x557fed7e5890" id="57" symbol="11SwTextFrame" upper="56" txtNodeIndex="74" WritingMode="Horizontal">
+       <infos>
+        <bounds left="15214" top="10073" width="2302" height="333" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="40" width="2302" height="253"/>
+       </infos>
+2019       <Text nLength="4" nType="PortionType::Para" nHeight="253" nWidth="440" Portion="2019"/>
+       <LineBreak nWidth="440" Line="2019"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x557fed7e5a00" id="58" symbol="11SwTextFrame" next="59" prev="21" upper="2" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="10679" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e5b70" id="59" symbol="11SwTextFrame" next="60" prev="58" upper="2" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="10992" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+TECHNICAL SKILLS:    <Text nLength="17" nType="PortionType::Para" nHeight="253" nWidth="2255" Portion="TECHNICAL SKILLS:"/>
+    <LineBreak nWidth="2255" Line="TECHNICAL SKILLS:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e5ce0" id="60" symbol="11SwTextFrame" next="61" prev="59" upper="2" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11305" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="567" top="60" width="8459" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e5e50" id="61" symbol="11SwTextFrame" next="64" prev="60" upper="2" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11618" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="253"/>
+    </infos>
+Coding languages**:* C , python    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fec988800" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="253" nWidth="1583" Portion="Coding languages"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="10" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="253" nWidth="61" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="659" Portion="*"/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="253" nWidth="978" Portion=" C , python"/>
+    <LineBreak nWidth="4368" Line="&#xF0D8;Coding languages**:* C , python"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e6610" id="64" symbol="11SwTextFrame" next="65" prev="61" upper="2" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="11871" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="720" top="0" width="8306" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e6780" id="65" symbol="11SwTextFrame" next="103" prev="64" upper="2" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12124" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="20" width="8816" height="253"/>
+    </infos>
+Operating systems*:*Microsoft window 7, Microsoft Windows 10,Ubutu    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef88bb00" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="253" nWidth="1632" Portion="Operating systems"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="681" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="253" nWidth="61" Portion=":"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="659" Portion="*"/>
+    <Text nLength="46" nType="PortionType::Text" nHeight="253" nWidth="4553" Portion="Microsoft window 7, Microsoft Windows 10,Ubutu"/>
+    <LineBreak nWidth="7943" Line="&#xF0D8;Operating systems*:*Microsoft window 7, Microsoft Windows 10,Ubutu"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef8f3cd0" id="103" symbol="11SwTextFrame" next="117" prev="65" upper="2" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12397" width="9026" height="269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef3544d0" id="117" symbol="11SwTextFrame" next="118" prev="103" upper="2" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12666" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fefac2800" id="118" symbol="11SwTextFrame" next="119" prev="117" upper="2" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="12995" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fefaf5400" id="119" symbol="11SwTextFrame" next="104" prev="118" upper="2" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="13324" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef8deb80" id="104" symbol="11SwTextFrame" next="109" prev="119" upper="2" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="13653" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+CERTIFICATIONS    <Text nLength="14" nType="PortionType::Para" nHeight="253" nWidth="1919" Portion="CERTIFICATIONS"/>
+    <LineBreak nWidth="1919" Line="CERTIFICATIONS"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef8e1d40" id="109" symbol="11SwTextFrame" next="102" prev="104" upper="2" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="13966" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef8d6110" id="102" symbol="11SwTextFrame" next="110" prev="109" upper="2" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="14295" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="60" width="8666" height="269"/>
+    </infos>
+C language : programing Fundamentals from coursera    <Special nLength="0" nType="PortionType::Bullet" rText="&#x27A2;" nHeight="220">
+     <SwFont ptr="0x557ff0a7d720" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="185"/>
+    <Text nLength="50" nType="PortionType::Text" nHeight="269" nWidth="4899" Portion="C language : programing Fundamentals from coursera"/>
+    <LineBreak nWidth="5259" Line="&#x27A2;C language : programing Fundamentals from coursera"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef97b9c0" id="110" symbol="11SwTextFrame" next="114" prev="102" upper="2" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="14624" width="9026" height="269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="8666" height="269"/>
+    </infos>
+Cloud Computing from cousera       <Special nLength="0" nType="PortionType::Bullet" rText="&#x27A2;" nHeight="220">
+     <SwFont ptr="0x557ff00819e0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="185"/>
+    <Text nLength="31" nType="PortionType::Text" nHeight="269" nWidth="2983" Portion="Cloud Computing from cousera   "/>
+    <LineBreak nWidth="3343" Line="&#x27A2;Cloud Computing from cousera   "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef93c8e0" id="114" symbol="11SwTextFrame" next="66" prev="110" upper="2" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="14893" width="9026" height="269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="8666" height="269"/>
+    </infos>
+Completion of C training from spoken tutorial project at IIT Bombay      <Special nLength="0" nType="PortionType::Bullet" rText="&#x27A2;" nHeight="220">
+     <SwFont ptr="0x557ff0a90c60" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="185"/>
+    <Text nLength="69" nType="PortionType::Text" nHeight="269" nWidth="6274" Portion="Completion of C training from spoken tutorial project at IIT Bombay  "/>
+    <LineBreak nWidth="6634" Line="&#x27A2;Completion of C training from spoken tutorial project at IIT Bombay  "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e68f0" id="66" symbol="11SwTextFrame" prev="114" upper="2" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="15162" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="720" top="0" width="8306" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x557fed7e5fc0" id="62" symbol="11SwPageFrame" prev="1" upper="0" lower="63">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x557fed7e64a0" id="63" symbol="11SwBodyFrame" upper="62" lower="115">
+   <infos>
+    <bounds left="8487" top="18846" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x557fefa25d10" id="115" symbol="11SwTextFrame" next="116" upper="63" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="18846" width="9026" height="269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed632050" id="116" symbol="11SwTextFrame" next="69" prev="115" upper="63" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19115" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e6d40" id="69" symbol="11SwTextFrame" next="70" prev="116" upper="63" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19444" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+WORKSHOPS AND TECHNICAL EVENTS:    <Text nLength="31" nType="PortionType::Para" nHeight="253" nWidth="4370" Portion="WORKSHOPS AND TECHNICAL EVENTS:"/>
+    <LineBreak nWidth="4370" Line="WORKSHOPS AND TECHNICAL EVENTS:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e6eb0" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="63" txtNodeIndex="96" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="19757" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7020" id="71" symbol="11SwTextFrame" next="72" prev="70" upper="63" txtNodeIndex="97" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="20070" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="60" width="8816" height="253"/>
+    </infos>
+Attended Drone workshop at Dronacharya college of Engineering in December 2021.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fefc90990" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="79" nType="PortionType::Text" nHeight="253" nWidth="7533" Portion="Attended Drone workshop at Dronacharya college of Engineering in December 2021."/>
+    <LineBreak nWidth="7890" Line="&#xF0D8;Attended Drone workshop at Dronacharya college of Engineering in December 2021."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7190" id="72" symbol="11SwTextFrame" next="73" prev="71" upper="63" txtNodeIndex="98" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="20383" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="567" top="0" width="8459" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7300" id="73" symbol="11SwTextFrame" next="111" prev="72" upper="63" txtNodeIndex="99" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="20636" width="9026" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="506"/>
+    </infos>
+Attended two days Web Development Workshop at Dronacharya College of Engineering in January 2022.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef9a8950" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="84" nType="PortionType::Text" nHeight="253" nWidth="8126" Portion="Attended two days Web Development Workshop at Dronacharya College of Engineering in "/>
+    <LineBreak nWidth="8483" Line="&#xF0D8;Attended two days Web Development Workshop at Dronacharya College of Engineering in "/>
+    <Text nLength="13" nType="PortionType::Lay" nHeight="253" nWidth="1234" Portion="January 2022."/>
+    <LineBreak nWidth="1234" Line="January 2022."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef15c970" id="111" symbol="11SwTextFrame" next="112" prev="73" upper="63" txtNodeIndex="100" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="21142" width="9026" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="506"/>
+    </infos>
+Attended three days Anual sports meet organised by Dronacharya college of engineering in june 2022.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef360f20" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="89" nType="PortionType::Text" nHeight="253" nWidth="8096" Portion="Attended three days Anual sports meet organised by Dronacharya college of engineering in "/>
+    <LineBreak nWidth="8453" Line="&#xF0D8;Attended three days Anual sports meet organised by Dronacharya college of engineering in "/>
+    <Text nLength="10" nType="PortionType::Lay" nHeight="253" nWidth="929" Portion="june 2022."/>
+    <LineBreak nWidth="929" Line="june 2022."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed75eb30" id="112" symbol="11SwTextFrame" next="113" prev="111" upper="63" txtNodeIndex="101" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="21648" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="253"/>
+    </infos>
+Participated in NCAT from   Dronacharya college of engineering.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef381f20" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="63" nType="PortionType::Text" nHeight="253" nWidth="5792" Portion="Participated in NCAT from   Dronacharya college of engineering."/>
+    <LineBreak nWidth="6149" Line="&#xF0D8;Participated in NCAT from   Dronacharya college of engineering."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fef321f00" id="113" symbol="11SwTextFrame" next="74" prev="112" upper="63" txtNodeIndex="102" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="21901" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="253"/>
+    </infos>
+Attended DRONA THON at Dronacharya college of engineering in May 2022.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fefed3800" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="70" nType="PortionType::Text" nHeight="253" nWidth="6971" Portion="Attended DRONA THON at Dronacharya college of engineering in May 2022."/>
+    <LineBreak nWidth="7328" Line="&#xF0D8;Attended DRONA THON at Dronacharya college of engineering in May 2022."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7470" id="74" symbol="11SwTextFrame" next="75" prev="113" upper="63" txtNodeIndex="103" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22154" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="253"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e75e0" id="75" symbol="11SwTextFrame" next="76" prev="74" upper="63" txtNodeIndex="104" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22467" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="253"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="253"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7750" id="76" symbol="11SwTextFrame" next="77" prev="75" upper="63" txtNodeIndex="105" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22720" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e78c0" id="77" symbol="11SwTextFrame" next="78" prev="76" upper="63" txtNodeIndex="106" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="22993" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9026" height="253"/>
+    </infos>
+STRENGTHS:    <Text nLength="10" nType="PortionType::Para" nHeight="253" nWidth="1418" Portion="STRENGTHS:"/>
+    <LineBreak nWidth="1418" Line="STRENGTHS:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7a30" id="78" symbol="11SwTextFrame" next="79" prev="77" upper="63" txtNodeIndex="107" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="23266" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7ba0" id="79" symbol="11SwTextFrame" next="80" prev="78" upper="63" txtNodeIndex="108" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="23539" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="20" width="8816" height="253"/>
+    </infos>
+The ability to Work in a team.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557ff0903450" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="30" nType="PortionType::Text" nHeight="253" nWidth="2658" Portion="The ability to Work in a team."/>
+    <LineBreak nWidth="3015" Line="&#xF0D8;The ability to Work in a team."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7d10" id="80" symbol="11SwTextFrame" next="81" prev="79" upper="63" txtNodeIndex="109" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="23812" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7e80" id="81" symbol="11SwTextFrame" next="82" prev="80" upper="63" txtNodeIndex="110" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="24085" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="20" width="8816" height="253"/>
+    </infos>
+Hard-working with lots of patience.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fefca7d20" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="35" nType="PortionType::Text" nHeight="253" nWidth="3147" Portion="Hard-working with lots of patience."/>
+    <LineBreak nWidth="3504" Line="&#xF0D8;Hard-working with lots of patience."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e7ff0" id="82" symbol="11SwTextFrame" next="83" prev="81" upper="63" txtNodeIndex="111" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="24358" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="720" top="0" width="8306" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e8160" id="83" symbol="11SwTextFrame" next="84" prev="82" upper="63" txtNodeIndex="112" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="24611" width="9026" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="253"/>
+    </infos>
+EXTRACURRICULAR ACTIVITIES:    <Text nLength="27" nType="PortionType::Para" nHeight="253" nWidth="3697" Portion="EXTRACURRICULAR ACTIVITIES:"/>
+    <LineBreak nWidth="3697" Line="EXTRACURRICULAR ACTIVITIES:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e82d0" id="84" symbol="11SwTextFrame" next="85" prev="83" upper="63" txtNodeIndex="113" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="25044" width="9026" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e8440" id="85" symbol="11SwTextFrame" next="86" prev="84" upper="63" txtNodeIndex="114" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="25317" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="60" width="8816" height="253"/>
+    </infos>
+Playing Badmintion,Swimming    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef917520" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="253" nWidth="2787" Portion="Playing Badmintion,Swimming"/>
+    <LineBreak nWidth="3144" Line="&#xF0D8;Playing Badmintion,Swimming"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e85b0" id="86" symbol="11SwTextFrame" next="87" prev="85" upper="63" txtNodeIndex="115" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="25630" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="210" top="0" width="8816" height="253"/>
+    </infos>
+Playing indoor games like carrom and ludo.    <Special nLength="0" nType="PortionType::Bullet" rText="&#xF0D8;" nHeight="220">
+     <SwFont ptr="0x557fef8d2f00" color="00000000"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="233" nWidth="182"/>
+    <Text nLength="42" nType="PortionType::Text" nHeight="253" nWidth="3856" Portion="Playing indoor games like carrom and ludo."/>
+    <LineBreak nWidth="4213" Line="&#xF0D8;Playing indoor games like carrom and ludo."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e8720" id="87" symbol="11SwTextFrame" next="88" prev="86" upper="63" txtNodeIndex="116" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="25883" width="9026" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="567" top="0" width="8459" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e8890" id="88" symbol="11SwTextFrame" next="89" prev="87" upper="63" txtNodeIndex="117" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="26136" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e8a00" id="89" symbol="11SwTextFrame" next="92" prev="88" upper="63" txtNodeIndex="118" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="26449" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e91f0" id="92" symbol="11SwTextFrame" next="93" prev="89" upper="63" txtNodeIndex="119" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="26762" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9360" id="93" symbol="11SwTextFrame" next="94" prev="92" upper="63" txtNodeIndex="120" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27075" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e94d0" id="94" symbol="11SwTextFrame" next="95" prev="93" upper="63" txtNodeIndex="121" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27388" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9640" id="95" symbol="11SwTextFrame" next="96" prev="94" upper="63" txtNodeIndex="122" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="27701" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e97b0" id="96" symbol="11SwTextFrame" next="97" prev="95" upper="63" txtNodeIndex="123" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="28014" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9920" id="97" symbol="11SwTextFrame" next="98" prev="96" upper="63" txtNodeIndex="124" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="28327" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9a90" id="98" symbol="11SwTextFrame" next="99" prev="97" upper="63" txtNodeIndex="125" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="28640" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9c00" id="99" symbol="11SwTextFrame" next="100" prev="98" upper="63" txtNodeIndex="126" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="28953" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9d70" id="100" symbol="11SwTextFrame" next="101" prev="99" upper="63" txtNodeIndex="127" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="29266" width="9026" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x557fed7e9ee0" id="101" symbol="11SwTextFrame" prev="100" upper="63" txtNodeIndex="128" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8487" top="29579" width="9026" height="329" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="60" width="9026" height="269"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
